@@ -49,4 +49,4 @@ public class Movement : MonoBehaviour
         rb.freezeRotation = false; // unfreezing rotation so that physics system can take over
     }
 }
- 
+  
