@@ -508,6 +508,10 @@ PrefabInstance:
       propertyPath: mainThrust
       value: 1000
       objectReference: {fileID: 0}
+    - target: {fileID: 3426755475591354015, guid: 97ea6d0cd09e9964a830c89942e69194, type: 3}
+      propertyPath: rotationThrust
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 5982537061701223268, guid: 97ea6d0cd09e9964a830c89942e69194, type: 3}
       propertyPath: m_Name
       value: Rocket
