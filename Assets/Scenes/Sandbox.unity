@@ -268,10 +268,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2241457865873350209, guid: cb0b7507a5fc6d34cbd21bf2ba41918f, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 687e24cbb81cf264594c58c09843cef4, type: 2}
     - target: {fileID: 7122270191273742427, guid: cb0b7507a5fc6d34cbd21bf2ba41918f, type: 3}
       propertyPath: m_Name
       value: Landing Pad
@@ -362,6 +358,23 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 4.369, y: 0, z: 0}
+--- !u!1 &1219846423 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5982537061701223268, guid: 97ea6d0cd09e9964a830c89942e69194, type: 3}
+  m_PrefabInstance: {fileID: 5982537060772930163}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1219846431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1219846423}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc5f31e5e0c82f0419571e46c9067476, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2271263859249017713
 PrefabInstance:
   m_ObjectHideFlags: 0
